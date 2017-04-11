@@ -1,0 +1,16 @@
+E:\WorkSpace\Projects\GoodIdeas\GShine\Data\obj\Debug\ResolveAssemblyReference.cache
+E:\WorkSpace\Projects\GoodIdeas\GShine\Data\bin\Debug\GShine_Data.dll
+E:\WorkSpace\Projects\GoodIdeas\GShine\Data\bin\Debug\GShine_Data.pdb
+E:\WorkSpace\Projects\GoodIdeas\GShine\Data\obj\Debug\GShine_Data.dll
+E:\WorkSpace\Projects\GoodIdeas\GShine\Data\obj\Debug\GShine_Data.pdb
+F:\Projects\GShine\Projects\LibGshine\GShine\Data\bin\Debug\GShineLib.dll.config
+F:\Projects\GShine\Projects\LibGshine\GShine\Data\bin\Debug\GShineLib.dll
+F:\Projects\GShine\Projects\LibGshine\GShine\Data\bin\Debug\GShineLib.pdb
+F:\Projects\GShine\Projects\LibGshine\GShine\Data\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\GShine\Projects\LibGshine\GShine\Data\obj\Debug\GShineLib.dll
+F:\Projects\GShine\Projects\LibGshine\GShine\Data\obj\Debug\GShineLib.pdb
+F:\Projects\GShineLib\GShine\Projects\LibGshine\GShine\Data\bin\Debug\GShineLib.dll
+F:\Projects\GShineLib\GShine\Projects\LibGshine\GShine\Data\bin\Debug\GShineLib.pdb
+F:\Projects\GShineLib\GShine\Projects\LibGshine\GShine\Data\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\GShineLib\GShine\Projects\LibGshine\GShine\Data\obj\Debug\GShineLib.dll
+F:\Projects\GShineLib\GShine\Projects\LibGshine\GShine\Data\obj\Debug\GShineLib.pdb
